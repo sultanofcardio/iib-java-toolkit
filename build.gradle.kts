@@ -18,7 +18,6 @@ repositories {
 
 dependencies {
     implementation(integrationJars)
-    include(integrationJars)
     api("org.json:json:20190722")
     api(kotlin("stdlib-jdk8"))
     testImplementation("junit:junit:4.12")

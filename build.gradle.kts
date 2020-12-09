@@ -6,7 +6,7 @@ plugins {
 }
 
 group = "com.sultanofcardio"
-version = "1.0.0"
+version = "1.0.1"
 
 val projectName = "iib-java-toolkit"
 val include = configurations.create("include")
